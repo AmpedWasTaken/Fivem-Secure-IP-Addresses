@@ -7,6 +7,7 @@ This is a simple script that will help you secure your players IP addresses.
 This script will replace the players IP address with a hashed version of your IP address. This will prevent people from using your IP address to DDOS you.
 
 Old IP identifier: `ip:192.168.0.229`
+
 New IP identifier: `ip:2121286442123213015`
 
 ## How to use
